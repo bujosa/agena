@@ -1,0 +1,5 @@
+* La linea roja simboliza las personas que no sobrevivieron.
+
+* La linea azul la que si.
+
+La idea de este grafico es ver el comportamiento de las lineas, (idealmente una sola unificada) de la edad y el flare.
